@@ -1,0 +1,46 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.frame {
+  display: inline-block;
+  width: 800px;
+  height: 400px;
+  background: black;
+  background-color: #CEB1BE;
+}
+
+.answerframe {
+  display: inline-block;
+  width: 800px;
+  height: 200px;
+  background: black;
+  background-color: #E2DCDE;
+}
+
+.container{
+  background-color: #ECEBF3;
+  border-radius: 3%;
+  padding: 2%;
+}
+
+.btn{
+  color: #2D2D34;
+  background-color: #B97375;
+  border-color: #2D2D34;
+  accent-color: #2D2D34;
+}
+
+.cuadro{
+  background-color: #CEB1BE;
+  color: #2D2D34;
+}
+
+.cabezal{
+  background-color: #E8B4BC;
+  padding: 2%;
+  border-radius: 3%;
+}
